@@ -3,8 +3,9 @@ package splitwise;
 import java.util.Scanner;
 
 public class Splitwise {
+    static final String msg = "Welcome to Splitwise";
     public static void main(String[] args) {
-        System.out.println("=== Splitwise ===");
+        System.out.println(msg);
         String description = "Dinner at restaurant";
         double totalAmount = 120.0;
         int numberOfPeople = 4;

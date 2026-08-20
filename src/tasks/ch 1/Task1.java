@@ -29,6 +29,6 @@ public class Task1 {
 
         System.out.println("i1: " + i1);
 
-        System.out.println("a: " + a);
+        // System.out.println("a: " + a);
     }
 }
